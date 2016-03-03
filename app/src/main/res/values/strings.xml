@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="ashley_text">Ashley\'s Text!</string>
+    <string name="press">Push to Update</string>
+</resources>
